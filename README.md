@@ -33,3 +33,9 @@ Most important concept learned: [Understanding the data and choosing the right f
 Most challenging part: [evaluation was the most challenged]
 
 Questions for further exploration: [How can we explain the model's predictions to non-technical stakeholders]
+## Kim
+### My Understanding of Machine Learning Types
+**Supervised Learning**: computer is trained and taught what is correct.
+**Unsupervised Learning**: computer finds relationships between data with no training or input data.
+**Reinforcement Learning**: computer learns itself by trials with penalties and rewards to gain experience.
+
