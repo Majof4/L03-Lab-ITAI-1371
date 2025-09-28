@@ -40,4 +40,29 @@ Questions for further exploration: [How can we explain the model's predictions t
 **Unsupervised Learning**: computer finds relationships between data with no training or input data.
 
 **Reinforcement Learning**: computer learns itself by trials with penalties and rewards to gain experience.
+### My Analysis of the Wine Classification Project
+
+**Best performing model**: 
+
+**Why do you think this model performed better?**: 
+
+**What would you try next to improve performance?**: 
+
+### Real-World Application Ideas
+
+**Industry of Interest**: 
+
+**ML Problem**:
+
+**Type of ML**: 
+
+**Data Needed**: 
+
+### Key Learnings
+
+**Most important concept learned**: 
+
+**Most challenging part**: 
+
+**Questions for further exploration**: 
 
