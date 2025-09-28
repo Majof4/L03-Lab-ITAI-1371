@@ -36,6 +36,8 @@ Questions for further exploration: [How can we explain the model's predictions t
 ## Kim
 ### My Understanding of Machine Learning Types
 **Supervised Learning**: computer is trained and taught what is correct.
+
 **Unsupervised Learning**: computer finds relationships between data with no training or input data.
+
 **Reinforcement Learning**: computer learns itself by trials with penalties and rewards to gain experience.
 
