@@ -42,11 +42,11 @@ Questions for further exploration: [How can we explain the model's predictions t
 **Reinforcement Learning**: computer learns itself by trials with penalties and rewards to gain experience.
 ### My Analysis of the Wine Classification Project
 
-**Best performing model**: 
+**Best performing model**: Random Forest
 
-**Why do you think this model performed better?**: 
+**Why do you think this model performed better?**: It can use multiple factors like alcohol, malic acid, ash, etc. to and combine decision paths to classify wine accurately.
 
-**What would you try next to improve performance?**: 
+**What would you try next to improve performance?**: Dimensionally remove to reduce noise.
 
 ### Real-World Application Ideas
 
