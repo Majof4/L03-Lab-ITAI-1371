@@ -50,19 +50,19 @@ Questions for further exploration: [How can we explain the model's predictions t
 
 ### Real-World Application Ideas
 
-**Industry of Interest**: 
+**Industry of Interest**: Customer service
 
-**ML Problem**:
+**ML Problem**: understands the expectation of customers and categorizes it to deal with.
 
-**Type of ML**: 
+**Type of ML**: Unsupervized learning
 
-**Data Needed**: 
+**Data Needed**: age, locations, behaviors, shopping frequency, feedback.
 
 ### Key Learnings
 
-**Most important concept learned**: 
+**Most important concept learned**: Understand and use appropriately the type of Machine Learning.
 
-**Most challenging part**: 
+**Most challenging part**: Deploy the ML model to an specific case.
 
-**Questions for further exploration**: 
+**Questions for further exploration**: How can we clean and preprocess unstructured data?
 
