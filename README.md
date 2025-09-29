@@ -27,4 +27,39 @@ Most important concept learned: [Understanding the data and choosing the right f
 Most challenging part: [evaluation was the most challenged]
 
 Questions for further exploration: [How can we explain the model's predictions to non-technical stakeholders]
-__________________________________________________________________________________________________________________________
+
+## Kim
+### My Understanding of Machine Learning Types
+**Supervised Learning**: computer is trained and taught what is correct.
+
+**Unsupervised Learning**: computer finds relationships between data with no training or input data.
+
+**Reinforcement Learning**: computer learns itself by trials with penalties and rewards to gain experience.
+### My Analysis of the Wine Classification Project
+
+**Best performing model**: Random Forest
+
+**Why do you think this model performed better?**: It can use multiple factors like alcohol, malic acid, ash, etc. to and combine decision paths to classify wine accurately.
+
+**What would you try next to improve performance?**: Dimensionally remove to reduce noise.
+
+### Real-World Application Ideas
+
+**Industry of Interest**: Customer service
+
+**ML Problem**: understands the expectation of customers and categorizes it to deal with.
+
+**Type of ML**: Unsupervized learning
+
+**Data Needed**: age, locations, behaviors, shopping frequency, feedback.
+
+### Key Learnings
+
+**Most important concept learned**: Understand and use appropriately the type of Machine Learning.
+
+**Most challenging part**: Deploy the ML model to an specific case.
+
+**Questions for further exploration**: How can we clean and preprocess unstructured data?
+
+=======
+______________
