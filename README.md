@@ -100,4 +100,36 @@ Questions for further exploration: What is the best criteria to follow to decide
 
 ______________________________________________________________________________________________________________________________
 
+**Maria Jose Viveros Riquelme**
+Instructions: Complete the reflection below by editing this markdown cell.
+
+My Understanding of Machine Learning Types
+*Supervised Learning*: Supervised learning is when the model learns from data that already has labels. For me, it feels similar to using statistics with dependent and independent variables. The algorithm attempts to predict the correct output based on the input features, identical to regression or classification.
+
+*Unsupervised Learning*: Unsupervised learning is when we do not have labels. Instead, the model tries to find hidden patterns or groups in the data. I connect this with clustering in statistics, where the data is organized into groups based on similarity.
+
+*Reinforcement Learning*: Reinforcement learning is different because the model learns through trial and error. It receives rewards or penalties depending on its actions. It is a decision-making process, similar to optimization in statistics, but more dynamic.
+
+My Analysis of the Wine Classification Project
+*Best performing model*: Logistic Regression
+
+Why do you think this model performed better?: Logistic regression is often better than a decision tree when the relationship between features and the target is mostly linear, the data is clean, and the target is binary or categorical. It handles numeric and binary variables well, is simple, stable, and less prone to overfitting. Decision trees can manage mixed data and nonlinear patterns but are more prone to overfitting and require careful tuning.
+
+What would you try next to improve performance? To improve performance, consider including various types of variables, increasing the amount of data, scaling and normalizing features, handling missing values and outliers, applying regularization, exploring alternative models, and tuning hyperparameters using cross-validation.
+
+Real-World Application Ideas
+Industry of Interest: Healthcare / Neuroscience
+
+ML Problem: Predict individual risk for psychiatric disorders based on personality traits and frontal lobe development.
+
+Type of ML: Supervised learning (classification for disorder risk categories).
+
+Data Needed: Neuroimaging data (MRI, fMRI) for frontal lobe structure and activity, standardized personality assessments, genetic markers, demographic and clinical history.
+
+Key Learnings
+Most important concept learned: Combining neurobiological data with psychological assessments can improve early detection and personalized interventions for psychiatric disorders.
+
+Most challenging part: Integrating heterogeneous data types (imaging, behavioral, genetic) and ensuring enough high-quality data for accurate predictions.
+
+Questions for further exploration: How can ML models account for developmental changes in the frontal lobe over time? Can personality assessments reliably improve predictive power alongside biological markers? What ethical considerations arise when predicting psychiatric risk?
 
